@@ -1,0 +1,24 @@
+{
+  "name": "ms01_breakout_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niskarsh/Ms03-1-Styling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niskarsh/Ms03-1-Styling/issues"
+  },
+  "homepage": "https://github.com/Niskarsh/Ms03-1-Styling#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
